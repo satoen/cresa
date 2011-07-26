@@ -1,0 +1,38 @@
+<xml>
+	<property>
+		<name>NrAvianIni</name>
+		<value>1</value>
+		<description>Nombre d'aus que introdueixen IA</description>
+	</proverty>
+	
+	<property>
+		<name>Rrm</name>
+		<value>0.8</value>
+		<description>Probabilitat entre 0 i 1. Taxa de reproducció d'una au a risc quan es troba amb una altra de la mateixa espècie</description>
+	</proverty>
+	
+	<property>
+		<name>Rrd</name>
+		<value>0.4</value>
+		<description>Probabilitat entre 0 i 1. Taxa de reproducció d'una au a risc quan es troba amb una altra de diferent espècie</description>
+	</proverty>
+	
+	<property>
+		<name>Rbm</name>
+		<value>0.6</value>
+		<description>Probabilitat entre 0 i 1. Taxa de reproducció d'una au pont quan es troba amb una altra de la mateixa espècie</description>
+	</proverty>
+	
+	<property>
+		<name>Rbd</name>
+		<value>0.3</value>
+		<description>Probabilitat entre 0 i 1. Taxa de reproducció d'una au pont quan es troba amb una altra de diferent espècie</description>
+	</proverty>
+	
+	<property>
+		<name>DistanceNewInfection</name>
+		<value>200</value>
+		<description>Metres als que cau la següent au infectada</description>
+	</proverty>
+	
+</xml>
